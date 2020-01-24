@@ -19,7 +19,7 @@ import java.util.Arrays;
  * a third number, to result in said third number
  * 
  * @author Quinten Simet
- * @author Andy Loc
+ * @author Andy Lok
  */
 public class SubsetSum {
     /**

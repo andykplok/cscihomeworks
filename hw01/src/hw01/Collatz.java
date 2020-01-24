@@ -17,7 +17,7 @@ package hw01;
  * an integer.
  * 
  * @author Quinten Simet
- * @author Andy Loc
+ * @author Andy Lok
  */
 public class Collatz{
     /**

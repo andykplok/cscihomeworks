@@ -17,7 +17,7 @@ package hw01;
  * equal to 2 and is divisible only by 1 and itself.
  * 
  * @author Quinten Simet
- * @author Andy Loc
+ * @author Andy Lok
  */
 public class PrimalityTest {    
     /** 

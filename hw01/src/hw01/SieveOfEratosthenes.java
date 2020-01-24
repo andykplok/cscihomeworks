@@ -14,13 +14,13 @@ package hw01;
 import java.lang.Math;
 
 /**
- * A class that impliments the Sieve of Eratosthenes, an algorithm
+ * A class that implments the Sieve of Eratosthenes, an algorithm
  * to test numbers to determine whether or not they are prime.
  * A prime number is defined as an integer that is greater or
  * equal to 2 and is divisable only by 1 and itself.
  * 
  * @author Quinten Simet
- * @author Andy Loc
+ * @author Andy Lok
  */
 public class SieveOfEratosthenes {
     /**
