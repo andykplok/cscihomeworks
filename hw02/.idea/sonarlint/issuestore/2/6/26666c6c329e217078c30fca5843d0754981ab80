@@ -1,0 +1,16 @@
+
+Asquid:S1444"*Make this "public static dict" field final(ò­£Ã
+xsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "word".(ƒ¼ñÿÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake dict a static final constant or non-public and provide accessors if needed.(ò­£Ã
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å–„ºşÿÿÿÿ
+?squid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+4squid:S2386"Make this member "protected".(ò­£Ã
+Ksquid:S1172
+"/Remove this unused method parameter "filename".(ãÿĞšÿÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò­£Ã
+:squid:S2119"Save and re-use this "Random".(ÒüêÎÿÿÿÿÿ
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ÿœ£˜ûÿÿÿÿ
+N
+squid:S106-"9Replace this use of System.out or System.err by a logger.(îº°
+Fsquid:S1481"/Remove this unused "hiddenWord" local variable.(úôåæ
