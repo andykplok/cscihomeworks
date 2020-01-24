@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hw01","l":"Collatz"},{"p":"hw01","l":"PrimalityTest"},{"p":"hw01","l":"SieveOfEratosthenes"},{"p":"hw01","l":"SubsetSum"}]
