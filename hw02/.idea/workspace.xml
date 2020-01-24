@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b22088-38be-42f6-bee4-59fd069e7a9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hw01/.idea/sonarlint/issuestore/4/3/43f3ddf454e1142b6244dd1d3487058536330768" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/.idea/sonarlint/issuestore/4/3/43f3ddf454e1142b6244dd1d3487058536330768" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw01/.idea/sonarlint/issuestore/5/0/50721ecf8c499583a45a7cb20191cbf46c5d26d4" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/.idea/sonarlint/issuestore/5/0/50721ecf8c499583a45a7cb20191cbf46c5d26d4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw01/.idea/sonarlint/issuestore/b/6/b6ed106a402bc0fbdfb68a1fef410cee94bdfb3b" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/.idea/sonarlint/issuestore/b/6/b6ed106a402bc0fbdfb68a1fef410cee94bdfb3b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw01/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw01/src/hw01/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/src/hw01/Collatz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw01/src/hw01/PrimalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/src/hw01/PrimalityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw01/src/hw01/SieveOfEratosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/src/hw01/SieveOfEratosthenes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw01/src/hw01/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/src/hw01/SubsetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict_hard.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hw02/LevelMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw02/LevelMode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +75,7 @@
       <updated>1579822938684</updated>
       <workItem from="1579822940967" duration="1160000" />
       <workItem from="1579876823745" duration="38000" />
-      <workItem from="1579882685382" duration="1896000" />
+      <workItem from="1579882685382" duration="2662000" />
     </task>
     <servers />
   </component>

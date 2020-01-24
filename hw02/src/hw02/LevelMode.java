@@ -3,9 +3,8 @@ package hw02;
 public class LevelMode {
 
     String dictFile;
-    int maxNumTries;1
-    enum LevelMode{easy, medium, hard;}
-
+    int maxNumTries;
+    
     //FUNCTION TO INITIALIZE THE BOARD
     public void init(){
         dictFile = "";
