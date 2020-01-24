@@ -1,9 +1,4 @@
-package hw01.test;
-
-import hw01.Collatz;
-import hw01.PrimalityTest;
-import hw01.SieveOfEratosthenes;
-import hw01.SubsetSum;
+package hw01;
 
 import java.util.Arrays;
 
